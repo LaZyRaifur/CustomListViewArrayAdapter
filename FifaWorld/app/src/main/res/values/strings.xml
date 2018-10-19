@@ -1,0 +1,317 @@
+<resources>
+    <string name="app_name">Custom Adapter</string>
+
+    <string-array name="item_name">
+        <item>abkhazia</item>
+        <item>afghanistan</item>
+        <item>albania</item>
+        <item>algeria</item>
+        <item>angola</item>
+        <item>argentina</item>
+        <item>armenia</item>
+        <item>aruba</item>
+        <item>australia</item>
+        <item>austria</item>
+        <item>azerbaijan</item>
+        <item>bahrain</item>
+        <item>bangladesh</item>
+        <item>barbados</item>
+        <item>belarus</item>
+        <item>belgium</item>
+        <item>bhutan</item>
+        <item>bolivia</item>
+        <item>bosnia and herzegovina</item>
+        <item>botswana</item> //20
+        <item>brazil</item>
+        <item>brunei</item>
+        <item>bulgaria</item>
+        <item>burundi</item>
+        <item>cambodia</item>
+        <item>cameroon</item>
+        <item>canada</item>
+        <item>chile</item>
+        <item>china</item>
+        <item>colombia</item>
+        <item>comoros</item>
+        <item>croatia</item>
+        <item>cuba</item>
+        <item>cyprus</item>
+        <item>czech republic</item>
+        <item>denmark</item>
+        <item>dominica</item>
+        <item>ecuador</item>
+        <item>egypt</item>
+        <item>england</item> //40
+        <item>estonia</item>
+        <item>ethiopia</item>
+        <item>fiji</item>
+        <item>finland</item>
+        <item>france</item>
+        <item>gambia</item>
+        <item>germany</item>
+        <item>ghana</item>
+        <item>greece</item>
+        <item>greenland</item>
+        <item>grenada</item>
+        <item>guatemala</item>
+        <item>guyana</item>
+        <item>haiti</item>
+        <item>Hawaii</item>
+        <item>honduras</item>
+        <item>Hong kong</item>
+        <item>Hungary</item>
+        <item>IceLand</item>
+        <item>India</item>//60
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Ivory Coast</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>lebanon</item>
+        <item>liberia</item>
+        <item>libya</item>
+        <item>lithuania</item>
+        <item>madagascar</item> //80
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>maldives</item>
+        <item>mali</item>
+        <item>malta</item>
+        <item>mexico</item>
+        <item>monaco</item>
+        <item>mongolia</item>
+        <item>morocco</item>
+        <item>myanmar</item>
+        <item>namibia</item>
+        <item>nepal</item>
+        <item>netherland</item>
+        <item>New Zealand</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Ossetia</item> //100
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>palestine</item>
+        <item>panama</item>
+        <item>paraguay</item>
+        <item>peru</item>
+        <item>philippines</item>
+        <item>Portugal</item>
+        <item>qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item> //112
+        <item>Salvador</item>
+        <item>Samoa</item>
+        <item>Saudi Arabia</item>
+        <item>Scotland</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States America</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Wales</item>
+        <item>Yemen</item>
+        <item>Zimbabwe</item>
+
+    </string-array>
+
+    <string-array name="item_description">
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+        <item>this is description 1</item>
+        <item>this is description 2</item>
+        <item>this is description 3</item>
+        <item>this is description 4</item>
+        <item>this is description 5</item>
+    </string-array>
+
+
+</resources>
